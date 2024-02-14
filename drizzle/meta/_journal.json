@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1707937392820,
+      "tag": "0000_messy_fat_cobra",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1707937789078,
+      "tag": "0001_gray_molecule_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1707938014096,
+      "tag": "0002_lucky_thunderbolt",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1707938114177,
+      "tag": "0003_lame_sleepwalker",
+      "breakpoints": true
+    }
+  ]
+}
